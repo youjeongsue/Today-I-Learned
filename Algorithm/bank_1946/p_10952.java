@@ -1,24 +1,19 @@
-//A+B - 5
+//숫자의 합
 
 package bank_1946;
 
-import java.io.*;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 public class p_10952 {
-    public static void main(String args[]) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        int A = Integer.parseInt(st.nextToken());
-        int B = Integer.parseInt(st.nextToken());
-        while(A!=0 && B!=0) {
-            bw.write(A + B + "\n");
-            st = new StringTokenizer(br.readLine());
-            A = Integer.parseInt(st.nextToken());
-            B = Integer.parseInt(st.nextToken());
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        int n = Integer.parseInt(sc.next());
+        String[] input = sc.next().split("");
+        int sum = 0;
+        for(int i=0;i<n;i++){
+            sum+=Integer.parseInt(input[i]);
         }
-        bw.flush();
-        bw.close();
+        System.out.println(sum);
+        sc.close();
     }
 }
