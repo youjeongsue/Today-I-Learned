@@ -6,4 +6,4 @@
 
 ..
 
-youjeongsue.netlify.com으로 
+youjeongsue.netlify.com으로 이동함
