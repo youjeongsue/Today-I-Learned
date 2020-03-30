@@ -1,4 +1,4 @@
-# Today I Learned
+# Today I Learned [![HitCount](http://hits.dwyl.com/youjeongsue/TIL.svg)](http://hits.dwyl.com/youjeongsue/TIL)
 
 ## Algorithm
 Algorithm solution<br>
