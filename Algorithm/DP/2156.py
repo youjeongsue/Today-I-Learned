@@ -1,9 +1,6 @@
 n = int(input())
-wine = []
 dp = [0]*n
-
-for _ in range(n):
-    wine.append(int(input()))
+wine = [int(input()) for _ in range(n)]
 
 dp[0] = wine[0]
 dp[1] = wine[0] + wine[1]
