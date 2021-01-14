@@ -1,7 +1,5 @@
 from collections import deque
 
-from collections import deque
-
 def solution(bridge_length, weight, truck_weights):
     bridge = deque(0 for _ in range(bridge_length))
     total_weight = 0

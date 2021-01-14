@@ -1,3 +1,5 @@
+#feedback: 리스트 만드는 부분 list comprehension으로 축약
+
 def solution(progresses, speeds):
     answer = []
     days = [100]*len(progresses)
