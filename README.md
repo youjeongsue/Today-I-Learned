@@ -1,4 +1,4 @@
-# Today I Learned [![HitCount](http://hits.dwyl.com/youjeongsue/TIL.svg)](http://hits.dwyl.com/youjeongsue/TIL)
+# Today I Learned
 
 ## python 알고리즘 팁..? 🙄
 - collections library(deque)
@@ -8,3 +8,7 @@
 
 ## Issues
 Archiving various development tips - snippets<br>
+
+
+---
+2022-04-14 다시 기록 시작!
