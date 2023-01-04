@@ -8,9 +8,4 @@
 
 ## Issues
 Archiving various development tips - snippets<br>
-
-
-
-
-
-(2022-04-14 다시 기록 시작!)
+공부나 업무하면서 알게된 작은 지식들을 주저리주저리 적어보자.. 정리가 필요하다면 블로그로 옮기기!
